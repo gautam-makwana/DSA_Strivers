@@ -4,17 +4,31 @@ public:
         int count = 0;
         int candidate = 0;
 
-        for (int num : nums) {
-            if (count == 0) {
-                candidate = num;
+        for(int i = 0; i < nums.size(); i++)
+        {
+            if(count == 0)
+            {
+                count = 1;
+                candidate = nums[i];
             }
-            
-            if (num == candidate) {
-                count += 1;
-            } else {
-                count -= 1;
+            else if(nums[i] == candidate)
+            {
+                count++;
+            }
+            else
+            {
+                count--;
             }
         }
-        return candidate;
+        int count1 = 0;
+        for(int i = 0; i < nums.size(); i++)
+        {
+            if(nums[i] == candidate) count1++;
+        }
+        if(count1 > (nums.size() / 2))
+        {
+            return candidate;
+        }
+        return -1;
     }
 };
