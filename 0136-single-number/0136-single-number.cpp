@@ -5,11 +5,9 @@ public:
         int count = 0;
         for(int i = 0; i < nums.size(); i++)
         {
-           mpp[nums[i]]++;
+           count^=nums[i];
         }
-        for(auto i : mpp){
-            if(i.second==1) return i.first;
-        }
-        return 0;
+      
+        return count;
     }
 };
