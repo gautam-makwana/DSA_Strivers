@@ -91,12 +91,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0136-single-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
