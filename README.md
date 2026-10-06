@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0560-subarray-sum-equals-k) |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0035-search-insert-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
