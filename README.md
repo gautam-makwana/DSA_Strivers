@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0560-subarray-sum-equals-k) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -112,11 +114,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0069-sqrtx) |
+| [0287-find-the-duplicate-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0287-find-the-duplicate-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0287-find-the-duplicate-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -129,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0014-longest-common-prefix) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
