@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0268-missing-number) |
 ## Counting
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
