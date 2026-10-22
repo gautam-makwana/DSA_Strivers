@@ -1,19 +1,21 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        if (ransomNote.length() > magazine.length()) return false;
-        for(int i = 0; i < ransomNote.length(); i++){
-            char target = ransomNote[i];
-            bool found = false;
+        if(ransomNote.length() > magazine.length()) return false;
+        int r = 0;
+        int m = 0;
 
-            for(int j = 0; j < magazine.length(); j++){
-                if(magazine[j] == target){
-                    magazine[j] = ' ';
-                    found = true;
-                    break;
-                }
-            }if(!found) return false;
+        sort(ransomNote.begin(), ransomNote.end());
+        sort(magazine.begin(), magazine.end());
+
+        while(r < ransomNote.length() && m < magazine.length()){
+            if(ransomNote[r] == magazine[m]){
+                r++;
+                m++;
+            }else{
+                m++;
+            }
         }
-        return true;
+        return r == ransomNote.length();
     }
 };
