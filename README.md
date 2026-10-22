@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0560-subarray-sum-equals-k) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0383-ransom-note) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
