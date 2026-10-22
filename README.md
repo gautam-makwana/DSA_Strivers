@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0389-find-the-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0389-find-the-difference) |
 ## Newton's Method
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
 | ------- |
