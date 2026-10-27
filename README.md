@@ -270,4 +270,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0219-contains-duplicate-ii) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
