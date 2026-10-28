@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0560-subarray-sum-equals-k) |
+| [1051-height-checker](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1920-build-array-from-permutation](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0389-find-the-difference) |
+| [1051-height-checker](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1051-height-checker) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
@@ -292,4 +294,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0102-binary-tree-level-order-traversal) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
