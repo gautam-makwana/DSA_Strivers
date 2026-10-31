@@ -1,11 +1,18 @@
 class Solution {
 public:
     vector<vector<int>> flipAndInvertImage(vector<vector<int>>& image) {
-        for(int i = 0; i < image.size(); i++){
-            reverse(image[i].begin(), image[i].end());
-            for(int j = 0; j < image[i].size(); j++){
-                if(image[i][j] == 0) image[i][j] = 1;
-                else image[i][j] = 0;
+        for (auto& row : image) {
+            int left = 0, right = row.size() - 1;
+
+            while (left <= right) {
+                if (row[left] == row[right]) {
+                    row[left] = row[left] ^ 1;
+                    if (row[left] != row[right]) {
+                        row[right] = row[right] ^ 1;
+                    }
+                }
+                left++;
+                right--;
             }
         }
         return image;
