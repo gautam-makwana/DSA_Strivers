@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0560-subarray-sum-equals-k) |
+| [0832-flipping-an-image](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0832-flipping-an-image) |
 | [1051-height-checker](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1480-running-sum-of-1d-array) |
@@ -109,12 +110,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0349-intersection-of-two-arrays) |
+| [0832-flipping-an-image](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0054-spiral-matrix) |
+| [0832-flipping-an-image](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0073-set-matrix-zeroes) |
+| [0832-flipping-an-image](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0832-flipping-an-image) |
 ## Newton's Method
 |  |
 | ------- |
