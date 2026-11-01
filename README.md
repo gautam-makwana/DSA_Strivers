@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
