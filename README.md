@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gautam-makwana/DSA_Strivers/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gautam-makwana/DSA_Strivers/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
