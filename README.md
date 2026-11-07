@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0560-subarray-sum-equals-k) |
 | [0832-flipping-an-image](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0832-flipping-an-image) |
+| [0875-koko-eating-bananas](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0875-koko-eating-bananas) |
 | [1051-height-checker](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1480-running-sum-of-1d-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0493-reverse-pairs) |
+| [0875-koko-eating-bananas](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
