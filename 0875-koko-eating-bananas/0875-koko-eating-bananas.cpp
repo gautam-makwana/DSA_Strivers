@@ -6,7 +6,7 @@ using namespace std;
 
 class Solution {
 public:
-    long long reqTime(vector<int> &arr, int h){
+    long long reqTime(vector<int>& arr, int h){
         long long totalhours = 0; 
         int n = arr.size();
 
@@ -20,18 +20,18 @@ public:
         int low = 1;
         int high = *max_element(piles.begin(), piles.end());
         int ans = high;
-        
+
         while(low <= high){
             int mid = low + (high - low) / 2;
-            long long reqtime = reqTime(piles, mid); 
-            
-            if(reqtime <= h){
+            long long totalHours = reqTime(piles, mid);
+
+            if(totalHours <= h){
                 ans = mid;
                 high = mid - 1;
-            } else {
+            }else {
                 low = mid + 1;
             }
         }
-        return ans;
+    return ans;
     }
 };
