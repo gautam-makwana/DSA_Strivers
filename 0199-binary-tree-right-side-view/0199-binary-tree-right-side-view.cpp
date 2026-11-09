@@ -12,20 +12,15 @@
  */
 class Solution {
 public:
-    vector<int> traverse(TreeNode* root, vector<int>& ans,int level) {
-        if (root == NULL)
-            return ans;
-        if(level == ans.size()){
-            ans.push_back(root->val);
-        }
-        
-        traverse(root->right, ans, level+1);
-        traverse(root->left, ans, level+1);
-        return ans;
+    vector<int> traverse(TreeNode* root,int level, vector<int>& res) {
+        if(root == NULL) return;
+        if(level == res.size()) res.push_back(root->val);
+        traverse(root->right, level + 1);
+        traverse(root->right, level + 1);
     }
     vector<int> rightSideView(TreeNode* root) {
-        vector<int> ans;
-        traverse(root, ans, 0);
-        return ans;
+        vector<int> res;
+        traverse(root, 0, res);
+        return res;
     }
 };
