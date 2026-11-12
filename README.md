@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/gautam-makwana/DSA_Strivers/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gautam-makwana/DSA_Strivers/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
