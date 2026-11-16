@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0018-4sum) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0011-container-with-most-water) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/gautam-makwana/DSA_Strivers/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Binary Search Tree
 |  |
