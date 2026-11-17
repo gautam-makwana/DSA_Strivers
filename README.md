@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0152-maximum-product-subarray) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0242-valid-anagram) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0496-next-greater-element-i) |
@@ -386,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0496-next-greater-element-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
