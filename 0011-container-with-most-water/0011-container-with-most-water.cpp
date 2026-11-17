@@ -6,12 +6,10 @@ public:
         int maxWater = INT_MIN;
         while (i < j) {
             int curWater = min(height[i], height[j]) * (j - i);
-            maxWater = max(maxWater, curWater);
-            if (height[i] <= height[j]) {
-                i++;
-            } else {
-                j--;
-            }
+            maxWater = max(curWater, maxWater);
+
+            if(height[i] <= height[j]) i++;
+            else j--;
         }
 
         return maxWater;
