@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0480-sliding-window-median](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0506-relative-ranks) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0480-sliding-window-median](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Treap
 |  |
 | ------- |
+| [0480-sliding-window-median](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0493-reverse-pairs) |
 ## Union-Find
 |  |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0219-contains-duplicate-ii) |
+| [0480-sliding-window-median](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0480-sliding-window-median) |
 | [3364-minimum-positive-sum-subarray](https://github.com/gautam-makwana/DSA_Strivers/tree/master/3364-minimum-positive-sum-subarray) |
 ## Stack
 |  |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0295-find-median-from-data-stream) |
+| [0480-sliding-window-median](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0480-sliding-window-median) |
 | [0506-relative-ranks](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0506-relative-ranks) |
 ## Tournament Sort
 |  |
