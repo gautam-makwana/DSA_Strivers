@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0493-reverse-pairs](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0493-reverse-pairs) |
+| [0506-relative-ranks](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0560-subarray-sum-equals-k) |
 | [0832-flipping-an-image](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0875-koko-eating-bananas) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0389-find-the-difference) |
+| [0506-relative-ranks](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0506-relative-ranks) |
 | [1051-height-checker](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1051-height-checker) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0215-kth-largest-element-in-an-array) |
+| [0506-relative-ranks](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0506-relative-ranks) |
 ## Tournament Sort
 |  |
 | ------- |
