@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0875-koko-eating-bananas) |
 | [0946-validate-stack-sequences](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0946-validate-stack-sequences) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0946-validate-stack-sequences) |
 ## Tree
 |  |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
