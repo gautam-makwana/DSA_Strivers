@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0875-koko-eating-bananas) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0832-flipping-an-image) |
 | [0946-validate-stack-sequences](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0946-validate-stack-sequences) |
 | [1920-build-array-from-permutation](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1920-build-array-from-permutation) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0946-validate-stack-sequences) |
 ## Tree
