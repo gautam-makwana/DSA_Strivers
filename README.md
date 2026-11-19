@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/gautam-makwana/DSA_Strivers/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/gautam-makwana/DSA_Strivers/tree/master/3364-minimum-positive-sum-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gautam-makwana/DSA_Strivers/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0506-relative-ranks) |
 | [1051-height-checker](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1051-height-checker) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Counting
 |  |
 | ------- |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0011-container-with-most-water) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/gautam-makwana/DSA_Strivers/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Binary Search Tree
 |  |
