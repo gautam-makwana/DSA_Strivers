@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1051-height-checker) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/gautam-makwana/DSA_Strivers/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Counting
 |  |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0700-search-in-a-binary-search-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -384,12 +386,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0700-search-in-a-binary-search-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0199-binary-tree-right-side-view) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Counting Sort
 |  |
 | ------- |
