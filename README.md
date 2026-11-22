@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0152-maximum-product-subarray) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/gautam-makwana/DSA_Strivers/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0700-search-in-a-binary-search-tree) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0101-symmetric-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0700-search-in-a-binary-search-tree) |
@@ -439,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0295-find-median-from-data-stream) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
