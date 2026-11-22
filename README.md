@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0152-maximum-product-subarray) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0268-missing-number) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0700-search-in-a-binary-search-tree) |
 ## Heap (Priority Queue)
