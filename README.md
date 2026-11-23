@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0199-binary-tree-right-side-view) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0199-binary-tree-right-side-view) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0199-binary-tree-right-side-view) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gautam-makwana/DSA_Strivers/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Counting Sort
