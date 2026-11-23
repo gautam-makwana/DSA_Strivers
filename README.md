@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0946-validate-stack-sequences) |
 | [1051-height-checker](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1920-build-array-from-permutation](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1920-build-array-from-permutation) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/gautam-makwana/DSA_Strivers/tree/master/3364-minimum-positive-sum-subarray) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0326-power-of-three) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gautam-makwana/DSA_Strivers/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/gautam-makwana/DSA_Strivers/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -451,10 +454,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gautam-makwana/DSA_Strivers/tree/master/1352-product-of-the-last-k-numbers) |
 ## DP on Trees
 |  |
 | ------- |
