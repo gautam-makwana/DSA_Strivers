@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0326-power-of-three) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gautam-makwana/DSA_Strivers/tree/master/0453-minimum-moves-to-equal-array-elements) |
